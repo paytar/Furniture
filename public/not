@@ -1,0 +1,142 @@
+    // {
+    //   "id": 1,
+    //   "name": "Metal Koltuk Takımı Yeşil",
+    //   "sale": "00000",
+    //   "description": "Yeşil renkli, ahşap ve metal detaylı modern koltuk takımı.",
+    //   "image": "/metalkoltukyesil/metalkoltuktakimiyesil.webp",
+    //   "slug": "metal-koltuk-takimi-yesil",
+    //   "category": "Bahçe Mobilyası",
+    //   "images": [
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil1.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil2.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil3.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil4.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil5.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil6.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil7.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil8.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil9.webp",
+    //     "/metalkoltukyesil/metalkoltuktakimiyesil10.webp"
+    //   ],
+    //   "technicalDetails": {
+    //     "color": "Yeşil",
+    //     "dimensions": "",
+    //     "material": "Metal ve Ahşap"
+    //   },
+    //   "contactInfo": {
+    //     "phone": ""
+    //   },
+    //   "paragraph": "Şıklığı ve dayanıklılığı bir araya getiren bu koltuk takımı, bahçenizde konforlu bir oturma alanı sunar.",
+    //   "seo": {
+    //     "title": "Metal Koltuk Takımı Yeşil | Bahçe Mobilyası",
+    //     "meta_description": "Şıklığı ve dayanıklılığı bir araya getiren yeşil renkli metal koltuk takımı, bahçenize modern bir hava katıyor. Dayanıklı ahşap ve metal detaylarla üretilmiştir.",
+    //     "og_title": "Metal Koltuk Takımı Yeşil",
+    //     "og_description": "Yeşil renkli, ahşap ve metal detaylı modern koltuk takımı ile bahçenizde konforu yaşayın.",
+    //     "og_image": "/metalkoltukyesil/metalkoltuktakimiyesil.webp"
+    //   }
+    // },
+    // {
+    //   "id": 2,
+    //   "name": "Metal Koltuk Takımı Füme",
+    //   "sale": "00000",
+
+    //   "description": "Füme renkli, ahşap ve metal detaylı modern koltuk takımı.",
+    //   "image": "/metalkoltukfume/metalkoltuktakimifüme.webp",
+    //   "slug": "metal-koltuk-takimi-fume",
+    //   "category": "Bahçe Mobilyası",
+    //   "images": [
+    //     "/metalkoltukfume/metalkoltuktakimifüme.webp",
+    //     "/metalkoltukfume/metalkoltuktakimifüme1.webp",
+    //     "/metalkoltukfume/metalkoltuktakimifüme2.webp",
+    //     "/metalkoltukfume/metalkoltuktakimifüme3.webp",
+    //     "/metalkoltukfume/metalkoltuktakimifüme4.webp",
+    //     "/metalkoltukfume/metalkoltuktakimifüme5.webp",
+    //     "/metalkoltukfume/metalkoltuktakimifüme6.webp"
+    //   ],
+    //   "technicalDetails": {
+    //     "color": "Füme",
+    //     "dimensions": "",
+    //     "material": "Metal ve Ahşap"
+    //   },
+    //   "contactInfo": {
+    //     "phone": ""
+    //   },
+    //   "paragraph": "Modern tasarım ve dayanıklılığın buluştuğu füme renkli metal koltuk takımı.",
+    //   "seo": {
+    //     "title": "Metal Koltuk Takımı Füme | Bahçe Mobilyası",
+    //     "meta_description": "Dayanıklı ve modern füme renkli metal koltuk takımı, bahçenizde şıklığı ve konforu bir arada sunar. Ahşap ve metal detaylarla üretilmiştir.",
+    //     "og_title": "Metal Koltuk Takımı Füme",
+    //     "og_description": "Füme renkli, ahşap ve metal detaylı şık koltuk takımı. Bahçenize modern bir dokunuş katın.",
+    //     "og_image": "/metalkoltukfume/metalkoltuktakimifüme.webp"
+    //   }
+    // },
+    // {
+    //   "id": 3,
+    //   "name": "Metal Koltuk Takımı Gri",
+    //   "sale": "00000",
+
+    //   "description": "Gri renkli, ahşap ve metal detaylı modern koltuk takımı.",
+    //   "image": "/metalkoltukgri/metalkoltuktakimigri.webp",
+    //   "slug": "metal-koltuk-takimi-gri",
+    //   "category": "Bahçe Mobilyası",
+    //   "images": [
+    //     "/metalkoltukgri/metalkoltuktakimigri.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri1.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri2.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri3.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri4.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri5.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri6.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri7.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri8.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri9.webp",
+    //     "/metalkoltukgri/metalkoltuktakimigri10.webp"
+    //   ],
+    //   "technicalDetails": {
+    //     "color": "Gri",
+    //     "dimensions": "",
+    //     "material": "Metal ve Ahşap"
+    //   },
+    //   "contactInfo": {
+    //     "phone": ""
+    //   },
+    //   "paragraph": "Bahçenize zarafet ve dayanıklılık getiren gri renkli metal koltuk takımı.",
+    //   "seo": {
+    //     "title": "Metal Koltuk Takımı Gri | Bahçe Mobilyası",
+    //     "meta_description": "Şıklığı ve dayanıklılığı bir araya getiren gri renkli metal koltuk takımı, bahçenize modern bir hava katıyor. Ahşap ve metal detaylarla üretilmiştir.",
+    //     "og_title": "Metal Koltuk Takımı Gri",
+    //     "og_description": "Gri renkli, ahşap ve metal detaylı modern koltuk takımı ile bahçenizde konforu yaşayın.",
+    //     "og_image": "/metalkoltukgri/metalkoltuktakimigri.webp"
+    //   }
+    // },
+    // {
+    //     "id": 11,
+    //     "name": "Metal Koltuk Takımı Kırmızı",
+    //     "sale": "00000",
+  
+    //     "description": "Kırmızı renkli,  metal detaylı modern koltuk takımı.",
+    //     "image": "/metalkoltukkirmizi/metalkoltuktakimikirmizi.webp",
+    //     "slug": "metal-koltuk-takimi-kirmizi",
+    //     "category": "Bahçe Mobilyası",
+    //     "images": [
+    //       "/metalkoltukkirmizi/metalkoltuktakimikirmizi.webp",
+    //       "/metalkoltukkirmizi/metalkoltuktakimikirmizi1.webp"
+    //     ],
+    //     "technicalDetails": {
+    //       "color": "Kirmizi",
+    //       "dimensions": "",
+    //       "material": "Metal ve Sünger"
+    //     },
+    //     "contactInfo": {
+    //       "phone": ""
+    //     },
+    //     "paragraph": "Bahçenize zarafet ve dayanıklılık getiren gri renkli metal koltuk takımı.",
+    //     "seo": {
+    //       "title": "Metal Koltuk Takımı Gri | Bahçe Mobilyası",
+    //       "meta_description": "Şıklığı ve dayanıklılığı bir araya getiren gri renkli metal koltuk takımı, bahçenize modern bir hava katıyor. Ahşap ve metal detaylarla üretilmiştir.",
+    //       "og_title": "Metal Koltuk Takımı Gri",
+    //       "og_description": "Gri renkli, ahşap ve metal detaylı modern koltuk takımı ile bahçenizde konforu yaşayın.",
+    //       "og_image": "/metalkoltukgri/metalkoltuktakimigri.webp"
+    //     }
+    //   },

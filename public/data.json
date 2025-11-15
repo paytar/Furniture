@@ -1,0 +1,370 @@
+{
+  "products": [
+
+    {
+      "id": 5,
+      "name": "Mavi Epoksi Ahşap Sehpa",
+      "sale": "00000",
+
+      "description": "Ahşap ve mavi epoksi detaylı şık sehpa.",
+      "image": "/ahsapmavisehpa/ahsapmavi.webp",
+      "slug": "mavi-epoksi-ahsap-sehpa",
+      "category": "Sehpa",
+      "images": [
+        "/ahsapmavisehpa/ahsapmavi.webp",
+        "/ahsapmavisehpa/ahsapmavi1.webp",
+        "/ahsapmavisehpa/ahsapmavi2.webp",
+        "/ahsapmavisehpa/ahsapmavi3.webp",
+        "/ahsapmavisehpa/ahsapmavi4.webp",
+        "/ahsapmavisehpa/ahsapmavi5.webp",
+        "/ahsapmavisehpa/ahsapmavi6.webp"
+      ],
+      "technicalDetails": {
+        "color": "Ahşap ve Mavi",
+        "dimensions": "",
+        "material": "Ahşap ve Epoksi"
+      },
+      "contactInfo": {
+        "phone": ""
+      },
+      "paragraph": "Evinize doğanın huzurunu getirecek mavi epoksi detaylarıyla dikkat çeken bir sehpa.",
+      "seo": {
+        "title": "Mavi Epoksi Ahşap Sehpa | Şık Sehpa Modelleri",
+        "meta_description": "Doğanın huzurunu evinize taşıyan mavi epoksi detaylı ahşap sehpa. Dekorasyonunuza zarafet katar.",
+        "og_title": "Mavi Epoksi Ahşap Sehpa",
+        "og_description": "Mavi epoksi detaylarıyla şıklık sunan ahşap sehpa modeli.",
+        "og_image": "/ahsapmavisehpa/ahsapmavi.webp"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ahşap Koyu Mavi Sehpa",
+      "sale": "00000",
+
+      "description": "Ahşap Koyu Mavi Sehpa  şık sehpa.",
+      "image": "/ahsapkoyumavisehpa/ahsapkoyumavi.webp",
+      "slug": "koyu-mavi-epoksi-ahsap-sehpa",
+      "category": "Sehpa",
+      "images": [
+        "/ahsapkoyumavisehpa/ahsapkoyumavi.webp",
+        "/ahsapkoyumavisehpa/ahsapkoyumavi1.webp",
+        "/ahsapkoyumavisehpa/ahsapkoyumavi2.webp",
+        "/ahsapkoyumavisehpa/ahsapkoyumavi3.webp",
+        "/ahsapkoyumavisehpa/ahsapkoyumavi4.webp",
+        "/ahsapkoyumavisehpa/ahsapkoyumavi5.webp",
+        "/ahsapkoyumavisehpa/ahsapkoyumavi6.webp"
+      ],
+      "technicalDetails": {
+        "color": "Ahşap ve Mavi",
+        "dimensions": "",
+        "material": "Ahşap ve Epoksi"
+      },
+      "contactInfo": {
+        "phone": ""
+      },
+      "paragraph": "Evinize doğanın huzurunu getirecek mavi epoksi detaylarıyla dikkat çeken bir sehpa.",
+      "seo": {
+        "title": "Mavi Epoksi Ahşap Sehpa | Şık Sehpa Modelleri",
+        "meta_description": "Doğanın huzurunu evinize taşıyan mavi epoksi detaylı ahşap sehpa. Dekorasyonunuza zarafet katar.",
+        "og_title": "Mavi Epoksi Ahşap Sehpa",
+        "og_description": "Mavi epoksi detaylarıyla şıklık sunan ahşap sehpa modeli.",
+        "og_image": "/ahsapkoyumavisehpa/ahsapkoyumavi.webp"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Ahşap Kütük  Sehpa",
+      "sale": "00000",
+
+      "description": "Ahşap Kütük  Sehpa  şık sehpa.",
+      "image": "/ahsapkutuksehpa/kutuksehpa.webp",
+      "slug": "ahsap-kutuk-sehpa",
+      "category": "Sehpa",
+      "images": [
+        "/ahsapkutuksehpa/kutuksehpa.webp",
+        "/ahsapkutuksehpa/kutuksehpa1.webp",
+        "/ahsapkutuksehpa/kutuksehpa2.webp",
+        "/ahsapkutuksehpa/kutuksehpa3.webp",
+        "/ahsapkutuksehpa/kutuksehpa4.webp",
+        "/ahsapkutuksehpa/kutuksehpa5.webp",
+        "/ahsapkutuksehpa/kutuksehpa6.webp",
+        "/ahsapkutuksehpa/kutuksehpa7.webp"
+      ],
+      "technicalDetails": {
+        "color": "Kütük",
+        "dimensions": "",
+        "material": "Kütük ve Metal"
+      },
+      "contactInfo": {
+        "phone": ""
+      },
+      "paragraph": "Evinize doğanın huzurunu getirecek mavi epoksi detaylarıyla dikkat çeken bir sehpa.",
+      "seo": {
+        "title": "Mavi Epoksi Ahşap Sehpa | Şık Sehpa Modelleri",
+        "meta_description": "Doğanın huzurunu evinize taşıyan mavi epoksi detaylı ahşap sehpa. Dekorasyonunuza zarafet katar.",
+        "og_title": "Mavi Epoksi Ahşap Sehpa",
+        "og_description": "Mavi epoksi detaylarıyla şıklık sunan ahşap sehpa modeli.",
+        "og_image": "/ahsapkoyumavisehpa/ahsapkoyumavi.webp"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Ahşap Lacivert Epoksi  Sehpa",
+      "sale": "00000",
+
+      "description": "Ahşap Lacivert Epoksi  Sehpa  şık sehpa.",
+      "image": "/ahsaplacivertsehpa/ahsaplacivert.webp",
+      "slug": "ahsap-lacivert-epoksi-sehpa",
+      "category": "Sehpa",
+      "images": [
+        "/ahsaplacivertsehpa/ahsaplacivert.webp",
+        "/ahsaplacivertsehpa/ahsaplacivert1.webp",
+        "/ahsaplacivertsehpa/ahsaplacivert2.webp",
+        "/ahsaplacivertsehpa/ahsaplacivert3.webp",
+        "/ahsaplacivertsehpa/ahsaplacivert4.webp",
+        "/ahsaplacivertsehpa/ahsaplacivert5.webp"
+      ],
+      "technicalDetails": {
+        "color": "ahsap-lacivert",
+        "dimensions": "",
+        "material": "ahsap veLacivert epoksi"
+      },
+      "contactInfo": {
+        "phone": ""
+      },
+      "paragraph": "Evinize doğanın huzurunu getirecek mavi epoksi detaylarıyla dikkat çeken bir sehpa.",
+      "seo": {
+        "title": "Mavi Epoksi Ahşap Sehpa | Şık Sehpa Modelleri",
+        "meta_description": "Doğanın huzurunu evinize taşıyan mavi epoksi detaylı ahşap sehpa. Dekorasyonunuza zarafet katar.",
+        "og_title": "Mavi Epoksi Ahşap Sehpa",
+        "og_description": "Mavi epoksi detaylarıyla şıklık sunan ahşap sehpa modeli.",
+        "og_image": "/ahsapkoyumavisehpa/ahsapkoyumavi.webp"
+      }
+    },
+
+    {
+      "id": 9,
+      "name": "Ahşap Siyah Epoksi  Sehpa",
+      "sale": "00000",
+
+      "description": "Ahşap Siyah Epoksi  Sehpa  şık sehpa.",
+      "image": "/ahsapsiyahsehpa/ahsapsiyah.webp",
+      "slug": "ahsap-siyah-epoksi-sehpa",
+      "category": "Sehpa",
+      "images": [
+        "/ahsapsiyahsehpa/ahsapsiyah.webp",
+        "/ahsapsiyahsehpa/ahsapsiyah1.webp",
+        "/ahsapsiyahsehpa/ahsapsiyah2.webp",
+        "/ahsapsiyahsehpa/ahsapsiyah3.webp",
+        "/ahsapsiyahsehpa/ahsapsiyah4.webp",
+        "/ahsapsiyahsehpa/ahsapsiyah5.webp",
+        "/ahsapsiyahsehpa/ahsapsiyah6.webp",
+        "/ahsapsiyahsehpa/ahsapsiyah7.webp"
+      ],
+      "technicalDetails": {
+        "color": "ahsap-lacivert",
+        "dimensions": "",
+        "material": "ahsap veLacivert epoksi"
+      },
+      "contactInfo": {
+        "phone": ""
+      },
+      "paragraph": "Evinize doğanın huzurunu getirecek mavi epoksi detaylarıyla dikkat çeken bir sehpa.",
+      "seo": {
+        "title": "Mavi Epoksi Ahşap Sehpa | Şık Sehpa Modelleri",
+        "meta_description": "Doğanın huzurunu evinize taşıyan mavi epoksi detaylı ahşap sehpa. Dekorasyonunuza zarafet katar.",
+        "og_title": "Mavi Epoksi Ahşap Sehpa",
+        "og_description": "Mavi epoksi detaylarıyla şıklık sunan ahşap sehpa modeli.",
+        "og_image": "/ahsapkoyumavisehpa/ahsapkoyumavi.webp"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ahşap Turkuaz Epoksi  Sehpa",
+      "sale": "00000",
+
+      "description": "Ahşap Siyah Epoksi  Sehpa  şık sehpa.",
+      "image": "/ahsapturkuazsehpa/ahsapturkuaz1.webp",
+      "slug": "ahsap-turkuz-epoksi-sehpa",
+      "category": "Sehpa",
+      "images": [
+        "/ahsapturkuazsehpa/ahsapturkuaz.webp",
+        "/ahsapturkuazsehpa/ahsapturkuaz2.webp",
+        "/ahsapturkuazsehpa/ahsapturkuaz3.webp",
+        "/ahsapturkuazsehpa/ahsapturkuaz4.webp",
+        "/ahsapturkuazsehpa/ahsapturkuaz5.webp",
+        "/ahsapturkuazsehpa/ahsapturkuaz1.webp"
+      ],
+      "technicalDetails": {
+        "color": "ahsap-lacivert",
+        "dimensions": "",
+        "material": "ahsap veLacivert epoksi"
+      },
+      "contactInfo": {
+        "phone": ""
+      },
+      "paragraph": "Evinize doğanın huzurunu getirecek mavi epoksi detaylarıyla dikkat çeken bir sehpa.",
+      "seo": {
+        "title": "Mavi Epoksi Ahşap Sehpa | Şık Sehpa Modelleri",
+        "meta_description": "Doğanın huzurunu evinize taşıyan mavi epoksi detaylı ahşap sehpa. Dekorasyonunuza zarafet katar.",
+        "og_title": "Mavi Epoksi Ahşap Sehpa",
+        "og_description": "Mavi epoksi detaylarıyla şıklık sunan ahşap sehpa modeli.",
+        "og_image": "/ahsapkoyumavisehpa/ahsapkoyumavi.webp"
+      }
+    },
+
+    
+    {
+      "id": 12,
+      "name": "DUBAİ TAKIM",
+      "sale": "100",
+
+      "description": "Bahçe ve balkon oturma grubu. En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getirecek.",
+      "image": "/dubai/1.jpeg",
+      "slug": "dubai-takim",
+      "category": "Bahçe Mobilyası",
+      "images": [
+        "/dubai/1.jpeg",
+        "/dubai/2.jpeg",
+        "/dubai/3.jpeg",
+        "/dubai/4.jpeg"
+      ],
+      "technicalDetails": {
+        "color": "Farklı renk seçenekleri mevcut",
+        "dimensions": "Masa: 110cm X 70cm, Üçlü: 180cm X 75cm, Tekli: 65cm X 75cm",
+        "material": "Kumaş ve statik boyalı profiller"
+      },
+      "contactInfo": {
+        "phone": "0 (552) 112 75 48 (WhatsApp)"
+      },
+      "paragraph": "En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getiren DUBAİ TAKIM. Farklı renk seçenekleriyle, Türkiye'nin her yerine teslim!",
+      "seo": {
+        "title": "DUBAİ TAKIM | Bahçe ve Balkon Mobilyası",
+        "meta_description": "Şıklığı ve kaliteyi bir araya getiren DUBAİ TAKIM ile bahçenize veya balkonunuza modern bir hava katın. Türkiye'nin her yerine teslim!",
+        "og_title": "DUBAİ TAKIM | Şık Bahçe ve Balkon Mobilyası",
+        "og_description": "DUBAİ TAKIM ile bahçenizde veya balkonunuzda hem konfor hem de estetik bir görünüm elde edin. Farklı renk seçenekleriyle hemen sipariş verin!",
+        "og_image": "/dubai/1.jpeg"
+      }
+    },
+    {
+      "id": 13,
+      "name": "İTALYA TAKIM",
+      "sale": "",
+
+      "description": "Bahçe ve balkon oturma grubu. En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getirecek.",
+      "image": "/italya/1.jpeg",
+      "slug": "italya-takim",
+      "category": "Bahçe Mobilyası",
+      "images": [
+        "/italya/1.jpeg",
+        "/italya/2.jpeg",
+        "/italya/3.jpeg",
+        "/italya/4.jpeg",
+        "/italya/5.jpeg"
+      ],
+      "technicalDetails": {
+        "color": "Farklı renk seçenekleri mevcut",
+        "dimensions": "Masa: 110cm X 70cm, Üçlü: 180cm X 75cm, Tekli: 65cm X 75cm",
+        "material": "Kumaş ve statik boyalı profiller"
+      },
+      "contactInfo": {
+        "phone": "0 (552) 112 75 48 (WhatsApp)"
+      },
+      "paragraph": "En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getiren İTALYA TAKIM. Farklı renk seçenekleriyle, Türkiye'nin her yerine teslim!",
+      "seo": {
+        "title": "İTALYA TAKIM | Bahçe ve Balkon Mobilyası",
+        "meta_description": "Şıklığı ve kaliteyi bir araya getiren İTALYA TAKIM ile bahçenize veya balkonunuza modern bir hava katın. Türkiye'nin her yerine teslim!",
+        "og_title": "İTALYA TAKIM | Şık Bahçe ve Balkon Mobilyası",
+        "og_description": "İTALYA TAKIM ile bahçenizde veya balkonunuzda hem konfor hem de estetik bir görünüm elde edin. Farklı renk seçenekleriyle hemen sipariş verin!",
+        "og_image": "/italya/1.jpeg"
+      }
+    },
+    {
+      "id": 14,
+      "name": "OSLO TAKIM",
+      "sale": "",
+
+      "description": "Bahçe ve balkon oturma grubu. En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getirecek.",
+      "image": "/oslo/1.jpeg",
+      "slug": "oslo-takim",
+      "category": "Bahçe Mobilyası",
+      "images": ["/oslo/1.jpeg", "/oslo/2.jpeg"],
+      "technicalDetails": {
+        "color": "Farklı renk seçenekleri mevcut",
+        "dimensions": "Masa: 110cm X 70cm, Üçlü: 176cm X 75cm, Tekli: 65cm X 75cm",
+        "material": "Kumaş ve statik boyalı profiller"
+      },
+      "contactInfo": {
+        "phone": "0 (552) 112 75 48 (WhatsApp)"
+      },
+      "paragraph": "En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getiren OSLO TAKIM. Farklı renk seçenekleriyle, Türkiye'nin her yerine teslim!",
+      "seo": {
+        "title": "OSLO TAKIM | Bahçe ve Balkon Mobilyası",
+        "meta_description": "Şıklığı ve kaliteyi bir araya getiren OSLO TAKIM ile bahçenize veya balkonunuza modern bir hava katın. Türkiye'nin her yerine teslim!",
+        "og_title": "OSLO TAKIM | Şık Bahçe ve Balkon Mobilyası",
+        "og_description": "OSLO TAKIM ile bahçenizde veya balkonunuzda hem konfor hem de estetik bir görünüm elde edin. Farklı renk seçenekleriyle hemen sipariş verin!",
+        "og_image": "/oslo/1.jpeg"
+      }
+    },
+    {
+      "id": 15,
+      "name": "X TAKIM",
+      "sale": "",
+
+      "description": "Bahçe ve balkon oturma grubu. En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getirecek.",
+      "image": "/xtakim/1.jpeg",
+      "slug": "x-takim",
+      "category": "Bahçe Mobilyası",
+      "images": [
+        "/xtakim/1.jpeg",
+        "/xtakim/2.jpeg",
+        "/xtakim/3.jpeg",
+        "/xtakim/4.jpeg",
+        "/xtakim/5.jpeg"
+      ],
+      "technicalDetails": {
+        "color": "Farklı renk seçenekleri mevcut",
+        "dimensions": "Masa: 110cm X 70cm, Üçlü: 176cm X 75cm, Tekli: 65cm X 75cm",
+        "material": "Kumaş ve statik boyalı profiller"
+      },
+      "contactInfo": {
+        "phone": "0 (552) 112 75 48 (WhatsApp)"
+      },
+      "paragraph": "En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getiren X TAKIM. Farklı renk seçenekleriyle, Türkiye'nin her yerine teslim!",
+      "seo": {
+        "title": "X TAKIM | Bahçe ve Balkon Mobilyası",
+        "meta_description": "Şıklığı ve kaliteyi bir araya getiren X TAKIM ile bahçenize veya balkonunuza modern bir hava katın. Türkiye'nin her yerine teslim!",
+        "og_title": "X TAKIM | Şık Bahçe ve Balkon Mobilyası",
+        "og_description": "X TAKIM ile bahçenizde veya balkonunuzda hem konfor hem de estetik bir görünüm elde edin. Farklı renk seçenekleriyle hemen sipariş verin!",
+        "og_image": "/xtakim/1.jpeg"
+      }
+    },
+    {
+      "id": 16,
+      "name": "ZENNE TAKIM",
+      "sale": "",
+
+      "description": "Bahçe ve balkon oturma grubu. En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getirecek.",
+      "image": "/zenne/1.jpeg",
+      "slug": "zenne-takim",
+      "category": "Bahçe Mobilyası",
+      "images": ["/zenne/1.jpeg", "/zenne/2.jpeg"],
+      "technicalDetails": {
+        "color": "Farklı renk seçenekleri mevcut",
+        "dimensions": "Masa: 110cm X 70cm, Üçlü: 180cm X 75cm, Tekli: 65cm X 75cm",
+        "material": "Kumaş ve statik boyalı profiller"
+      },
+      "contactInfo": {
+        "phone": "0 (552) 112 75 48 (WhatsApp)"
+      },
+      "paragraph": "En kaliteli kumaş ve statik boyalı profiller ile evinize şıklık getiren ZENNE TAKIM. Farklı renk seçenekleriyle, Türkiye'nin her yerine teslim!",
+      "seo": {
+        "title": "ZENNE TAKIM | Bahçe ve Balkon Mobilyası",
+        "meta_description": "Şıklığı ve kaliteyi bir araya getiren ZENNE TAKIM ile bahçenize veya balkonunuza modern bir hava katın. Türkiye'nin her yerine teslim!",
+        "og_title": "ZENNE TAKIM | Şık Bahçe ve Balkon Mobilyası",
+        "og_description": "ZENNE TAKIM ile bahçenizde veya balkonunuzda hem konfor hem de estetik bir görünüm elde edin. Farklı renk seçenekleriyle hemen sipariş verin!",
+        "og_image": "/zenne/1.jpeg"
+      }
+    }
+  ]
+}
