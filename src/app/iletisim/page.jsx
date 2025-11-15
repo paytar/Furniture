@@ -10,7 +10,6 @@ const ContactPage = () => {
       <h1 className="text-3xl font-extrabold text-[#CCA648] mb-6">İletişim</h1>
 
       <div className="flex flex-col lg:flex-row lg:space-x-8">
-        {/* Sol Bölüm: İletişim Bilgileri */}
         <div className="lg:w-1/2 w-full mb-8">
           <h2 className="text-2xl font-semibold text-[#CCA648] mb-4">
             İletişim Bilgileri
@@ -32,12 +31,12 @@ const ContactPage = () => {
               href="mailto:info@vesahome.com"
               className="text-[#CCA648] hover:underline"
             >
-              info@vesahome.com
+              info@null.com
             </a>
           </p>
           <p className="text-gray-700 mb-2">
-            <strong>Adres:</strong> Örnek Mahallesi, Özgü Sokak, 36/2
-            Altındağ/ANKARA (İMALATHANE)
+            <strong>Adres:</strong>
+            Null
           </p>
         </div>
 
